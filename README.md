@@ -1,6 +1,8 @@
 Aidan Diaz Portfolio
 HTML5, CSS3, SASS, Javascript - Templated portfolio Site with project links and ways to contact me
 
+![alt text](assets/css/images/coverImage.png)
+
 Link to site: https://aidandiaz.netlify.app/
 
 How It's Made:

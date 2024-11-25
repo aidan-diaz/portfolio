@@ -157,17 +157,31 @@
 					</section>
 
 				<!-- Contact -->
-					<section id="contact" class="four">
-						<div class="container">
+				<section id="contact" class="four">
+					<div class="container">
 
-							<header>
-								<h2>Get in Touch!</h2>
-							</header>
+						<header>
+							<h2>Get in Touch!</h2>
+						</header>
 
-							<p>Ready to work together and create the website that your company deserves? Send me an email at <a target="_blank" href="mailto:diaz.aidan.d@gmail.com">diaz.aidan.d@gmail.com</a>!</p>
+						<p>Ready to work together and create the website that your company deserves? Just want to stay in touch? Send me an email!</p>
 
-						</div>
-					</section>
+						<form method="POST" name="contact" action="#" netlify>
+							<input type="hidden" name="form-name" value="contact" />
+							<div class="row">
+								<div class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Name" /></div>
+								<div class="col-6 col-12-mobile"><input type="text" name="email" placeholder="Email" /></div>
+								<div class="col-12">
+									<textarea name="message" placeholder="Message"></textarea>
+								</div>
+								<div class="col-12">
+									<input type="submit" value="Send Message" />
+								</div>
+							</div>
+						</form>
+
+					</div>
+				</section>
 
 			</div>
 

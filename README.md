@@ -18,4 +18,4 @@ I updated the containing elements to have no set height property, to ensure that
 
 ## Lessons Learned:
 
-I learned that Netlify has a built in form submission option that allows forms to be sent directly to my email - which I plan to utilize in the future. 
+I learned that Netlify has a built in form submission option that allows forms to be sent directly to my email - which I have utilized for a convenient way of receiving messages. 

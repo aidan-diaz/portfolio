@@ -1,17 +1,18 @@
-Aidan Diaz Portfolio
-HTML5, CSS3, SASS, Javascript - Templated portfolio Site with project links and ways to contact me
+# My Portfolio
 
 ![alt text](images/portfolioThumbnail.png)
 
 Link to site: https://aidandiaz.netlify.app/
 
-How It's Made:
-
-Tech used: HTML5, CSS3, SASS, JavaScript
+## Tech used: 
+- HTML5
+- CSS3
+- SASS
+- JavaScript
 
 My learning was focused on effectively plugging in all of my information to the already provided template.
 
-Optimizations
+## Optimizations
 
 I updated the containing elements to have no set height property, to ensure that they would always contain all of their content.
 

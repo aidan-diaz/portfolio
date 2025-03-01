@@ -16,6 +16,6 @@ My learning was focused on effectively plugging in all of my information to the 
 
 I updated the containing elements to have no set height property, to ensure that they would always contain all of their content.
 
-Lessons Learned:
+## Lessons Learned:
 
 I learned that Netlify has a built in form submission option that allows forms to be sent directly to my email - which I plan to utilize in the future. 
